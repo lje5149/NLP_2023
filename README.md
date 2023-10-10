@@ -25,3 +25,4 @@
 |:--:|:--: |:--: |
 |1|Code Cells 🍒|[variable,assing](https://github.com/lje5149/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
 |1|Five Types of Data 🍒|[Numbers, String, List, Tuple, dictionary](https://github.com/lje5149/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
+|1|Indexing & Slicing 🍒|[:, forward, backward, link +, repeat *, length len()](
