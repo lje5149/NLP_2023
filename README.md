@@ -22,7 +22,12 @@
 ### **5. Class Materials**
 
 |# |Sessiosn |Keywords |
-|:--:|:--: |:--: |
-|1|Code Cells 🍒|[variable,assing](https://github.com/lje5149/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
-|1|Five Types of Data 🍒|[Numbers, String, List, Tuple, dictionary](https://github.com/lje5149/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
-|1|Indexing & Slicing 🍒|[:, forward, backward, link +, repeat *, length len()](
+|:--:|:--:|:--:|
+| 1 | Code Cells 🍒 | [variable, assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|  
+| 2 | Five Types of Data 🍒 | [number, string, list, tuple, dictionary](https://github.com/ms624atyale/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|  
+| 3 | Indexing & Slicing 🍒 | [:, forward, backward, link +, repeat *, length len()](https://github.com/ms624atyale/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
+| 4 | Statements 🍒 | [if ~:](https://github.com/ms624atyale/NLP_2023/blob/main/4_1_IfStatement.ipynb) [ for ~:](https://github.com/ms624atyale/NLP_2023/blob/main/4_2_ForStatement.ipynb) [try~:](https://github.com/ms624atyale/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb) [while~:](https://github.com/ms624atyale/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb)|
+| 5 | Regular Expression 🍒 | [re, meta characters](https://github.com/ms624atyale/NLP_2023/blob/main/5_RegularExpression.ipynb)|  
+| 6 | Functions 🍒 | [function, factor](https://github.com/ms624atyale/NLP_2023/blob/main/6_DefiningFunctions.ipynb)|  
+| 7 | Classes 🍒 | [class, method, member](https://github.com/ms624atyale/NLP_2023/blob/main/7_Class_Method_Member_Object.ipynb)|  
+
